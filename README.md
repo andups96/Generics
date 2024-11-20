@@ -1,2 +1,2 @@
-# Generics
-Repo houses Generics related practice code
+# generics
+Repo houses generics related practice code
